@@ -16,6 +16,6 @@ See [your demo video title here] (https://link_to_your_video)
 
 ## Acknowledgments
 
-* stackoberflow.com
+* stackoverflow.com
 
 *Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
