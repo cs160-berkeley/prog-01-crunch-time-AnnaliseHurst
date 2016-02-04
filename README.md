@@ -12,7 +12,7 @@ See Crunch Time https://youtu.be/gZGobZmzaGg
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/Screen Shot 2016-02-04 at 11.07.06 AM.png" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
 
