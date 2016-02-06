@@ -1,6 +1,6 @@
 # PROG 01: Crunch Time
 
-The application allows the user to pick an activity and enter an amount of reps/minutes to get the amount of calories burnt along with equivalent actives that burn the same amount of calories, or enter the amount of calories they want to burn to see the amount of reps/minutes it would take to burn that amount for any activity.
+The application allows the user to pick an activity and enter an amount of reps/minutes to get the amount of calories burnt along with equivalent activities that burn the same amount of calories or enter the amount of calories they want to burn to see the amount of reps/minutes it would take to burn that amount for any activity.
 
 ## Authors
 
